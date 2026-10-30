@@ -35,8 +35,5 @@ Para ejecutar localmente: `pip install -r requirements.txt` y abrir el notebook 
 Ver `results/resultados_resumen.md` y `report/Informe_Pregunta2.pdf`.
 En test (eventos vistos) el IoU del agua es 0.670; en Bolivia, 0.593.
 
-## Uso de herramientas de apoyo
-_(Completar según la política del curso: indicar qué herramientas se usaron, para qué y qué parte del trabajo es propia.)_
-
 ## Referencia del dataset
 Bonafilia, D., Tellman, B., Anderson, T., & Issenberg, E. (2020). *Sen1Floods11: a georeferenced dataset to train and test deep learning flood algorithms for Sentinel-1.* CVPR Workshops, 210–211. https://github.com/cloudtostreet/Sen1Floods11
