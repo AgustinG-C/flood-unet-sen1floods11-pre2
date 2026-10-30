@@ -11,7 +11,7 @@ ablación, evaluación en distribución, generalización a Bolivia, análisis de
 |---|---|
 | `notebooks/Pregunta2_UNet_Sen1Floods11_v2.ipynb` | Notebook reproducible (Google Colab): descarga, entrenamiento, ablación, evaluación, análisis y bono |
 | `notebooks/Pregunta2_ejecutado_con_salidas.ipynb` | Versión ejecutada, con las salidas de la corrida reportada |
-| `report/` | Informe en LaTeX (`main.tex`, figuras) y PDF compilado |
+| `report/` | Informe  PDF|
 | `results/` | Resumen de resultados; aquí se colocan los CSV y figuras generados |
 
 ## Cómo reproducir
