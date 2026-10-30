@@ -1,0 +1,15 @@
+# datos y artefactos pesados (no subir)
+sen1floods11/
+data/
+*.pt
+*.pth
+outputs/
+# python / jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+# latex
+*.aux
+*.log
+*.out
+*.toc
